@@ -1,6 +1,6 @@
 # Sistema de Compra de Ingressos
 
-Este projeto simula um sistema de compra de ingressos online.
+Este projeto simula um sistema de compra de ingressos online. Foi implementado sobre uma base já existente, que incluía a estrutura HTML e o design CSS da aplicação, a lógica JavaScript.
 
 ## Funcionalidades
 
